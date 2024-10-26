@@ -30,8 +30,8 @@ This is a simple REST API for managing products in a furniture shop. The project
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/furniture-shop-api.git
-    cd furniture-shop-api
+    git clone https://github.com/florentrot/furniture_app.git
+    cd furniture_app
     ```
 
 2. **Configure the database**:
